@@ -1,4 +1,6 @@
-![AzamkhanPathan007's GitHub Banner](https://avatars.githubusercontent.com/u/AzamkhanPathan007?v=4)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/AzamkhanPathan007" width="160" alt="Azam Khan Pathan's avatar"/>
+</p>
 
 <!-- Dynamic GitHub Stats & Trophies -->
 <p align="center">
