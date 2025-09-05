@@ -29,7 +29,7 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=black" />
 
   <!-- Frameworks -->
@@ -42,9 +42,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20SQS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/BullMQ-ea1b1a?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge&logo=lmms&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Bedrock-ff9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anthropic-2C4A6D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anthropic-2C4A6D?style=for-the-badge&logo=anthropic" />
 </p>
 
 ---
