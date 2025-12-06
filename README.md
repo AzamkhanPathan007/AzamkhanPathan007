@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Backend developer with 1.5+ years of hands-on experience
+- 🚀 Backend developer with 2+ years of hands-on experience
 - Passionate about designing **scalable** and **efficient** systems
 - Advocate for **Clean Code**, **SOLID Principles**, and **DRY** development
 - Gaming enthusiast 🎮
